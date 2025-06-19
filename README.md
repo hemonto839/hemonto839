@@ -1,6 +1,8 @@
-[![GitHub Banner](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://github.com/hemonto839)
+
 <h1 align="center">Hi 👋, I'm Arka Roy</h1>
 <h3 align="center">Aspiring CSE Undergrad | Passionate about AI, ML & Deep Learning | Building Full-Stack Projects</h3>
+
+<img align="right" alt="coder" width="400" src="[https://th.bing.com/th/id/R.417ebee986aec41629278b1e04cfbfe9?rik=WTtA8f8o5uL7NQ&pid=ImgRaw&r=0](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)"> <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemonto839&label=Profile%20views&color=0e75b6&style=flat" alt="hemonto839" /> </p>
 
