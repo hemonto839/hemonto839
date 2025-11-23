@@ -42,4 +42,4 @@
 
 ---
 
-Thanks for stopping by — feel free to say hi! 👋
+# Thanks for stopping by — feel free to say hi! 👋
